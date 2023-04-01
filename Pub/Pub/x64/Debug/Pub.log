@@ -1,0 +1,8 @@
+﻿  Pub.cpp
+C:\PO\classes\Publicachion — копия\Pub\Pub\Pub.cpp(149,2): error C2628: недопустимый "Event" с последующим "int" (возможно, отсутствует ";")
+C:\PO\classes\Publicachion — копия\Pub\Pub\Pub.cpp(149,6): error C3874: возвращаемый тип "main" должен быть "int", а не "Event"
+C:\PO\classes\Publicachion — копия\Pub\Pub\Pub.cpp(163,33): error C2664: "int Library::setId(std::string)": невозможно преобразовать аргумент 1 из "int" в "std::string"
+C:\PO\classes\Publicachion — копия\Pub\Pub\Pub.cpp(163,40): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+C:\PO\classes\Publicachion — копия\Pub\Pub\Pub.cpp(62,7): message : см. объявление "Library::setId"
+C:\PO\classes\Publicachion — копия\Pub\Pub\Pub.cpp(163,33): message : при попытке сопоставить список аргументов "(int)"
+C:\PO\classes\Publicachion — копия\Pub\Pub\Pub.cpp(149): fatal  error C1075: "{": не найдена несоответствующая лексема
